@@ -23,7 +23,7 @@ export class LootingRegister {
             'minecraft:goat',
             'minecraft:pig',
             'minecraft:rabbit',
-            'minecraft:mushroom_cow'
+            'minecraft:mooshroom'
         ];
         if (health && health.currentValue <= 0 && animalFatMobs.includes(victim)) {
             ItemAPI.spawn(hurtEntity, 'syals_delight:animal_fat', 1);
