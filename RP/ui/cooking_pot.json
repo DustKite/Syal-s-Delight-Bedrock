@@ -1,0 +1,159 @@
+{
+  "syals_delight_recipe_part_0": {
+    "type": "panel",
+    "size": [ 150, 38 ],
+    "controls": [
+      {
+        "batch_fried_potato_slice_recipe@cooking_pot.cooking_pot_recipe": {
+          "texture": "textures/gui/recipe/cooking_recipe",
+          "size": [ 75, 38 ],
+          "offset": [ -37.5, 0 ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  { "cell0": { "type": "image", "offset": [ -23, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/potato_slice" } },
+                  { "cell1": { "type": "image", "offset": [ -14.625, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/potato_slice" } },
+                  { "cell2": { "type": "image", "offset": [ -6.25, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/potato_slice" } },
+                  { "cell3": { "type": "image", "offset": [ -23, 1.5 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/potato_slice" } },
+                  { "cell4": { "type": "image", "offset": [ -14.625, 1.5 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/oil_bottle" } },
+                  { "cell5": { "type": "image", "offset": [ -6.25, 1.5 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/oil_bottle" } },
+                  { "result": { "type": "image", "offset": [ 21, -5.25 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/batch_fried_potato_slice" } },
+                  { "count": { "type": "label", "text": "4", "font_scale_factor": 0.5, "size": [ 15, 15 ], "offset": [ 31, 2 ] } }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "fried_potato_slice_recipe@cooking_pot.cooking_pot_recipe": {
+          "texture": "textures/gui/recipe/cooking_recipe",
+          "size": [ 75, 38 ],
+          "offset": [ 37.5, 0 ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  { "cell0": { "type": "image", "offset": [ -23, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/potato_slice" } },
+                  { "cell1": { "type": "image", "offset": [ -14.625, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/potato_slice" } },
+                  { "cell2": { "type": "image", "offset": [ -6.25, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/oil_bottle" } },
+                  { "cell3": { "type": "image", "offset": [ -23, 1.5 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/oil_bottle" } },
+                  { "result": { "type": "image", "offset": [ 21, -5.25 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/fried_potato_slice" } },
+                  { "count": { "type": "label", "text": "2", "font_scale_factor": 0.5, "size": [ 15, 15 ], "offset": [ 31, 2 ] } }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "syals_delight_recipe_part_1": {
+    "type": "panel",
+    "size": [ 150, 38 ],
+    "controls": [
+      {
+        "greasy_potato_slice_recipe@cooking_pot.cooking_pot_recipe": {
+          "texture": "textures/gui/recipe/cooking_recipe",
+          "size": [ 75, 38 ],
+          "offset": [ -37.5, 0 ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  { "cell0": { "type": "image", "offset": [ -23, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/potato_slice" } },
+                  { "cell1": { "type": "image", "offset": [ -14.625, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/potato_slice" } },
+                  { "cell2": { "type": "image", "offset": [ -6.25, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/oil_bottle" } },
+                  { "cell3": { "type": "image", "offset": [ -23, 1.5 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/oil_bottle" } },
+                  { "cell4": { "type": "image", "offset": [ -14.625, 1.5 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/oil_bottle" } },
+                  { "result": { "type": "image", "offset": [ 21, -5.25 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/greasy_potato_slice" } },
+                  { "count": { "type": "label", "text": "2", "font_scale_factor": 0.5, "size": [ 15, 15 ], "offset": [ 31, 2 ] } }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "hot_potato_slice_recipe@cooking_pot.cooking_pot_recipe": {
+          "texture": "textures/gui/recipe/cooking_recipe",
+          "size": [ 75, 38 ],
+          "offset": [ 37.5, 0 ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  { "cell0": { "type": "image", "offset": [ -23, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/fried_potato_slice" } },
+                  { "cell1": { "type": "image", "offset": [ -14.625, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/fried_potato_slice" } },
+                  { "cell2": { "type": "image", "offset": [ -6.25, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/oil_bottle" } },
+                  { "cell3": { "type": "image", "offset": [ -23, 1.5 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/oil_bottle" } },
+                  { "result": { "type": "image", "offset": [ 21, -5.25 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/hot_potato_slice" } },
+                  { "count": { "type": "label", "text": "2", "font_scale_factor": 0.5, "size": [ 15, 15 ], "offset": [ 31, 2 ] } }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "syals_delight_recipe_part_2": {
+    "type": "panel",
+    "size": [ 150, 38 ],
+    "controls": [
+      {
+        "low_fat_potato_slice_recipe@cooking_pot.cooking_pot_recipe": {
+          "texture": "textures/gui/recipe/cooking_recipe",
+          "size": [ 75, 38 ],
+          "offset": [ -37.5, 0 ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  { "cell0": { "type": "image", "offset": [ -23, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/potato_slice" } },
+                  { "cell1": { "type": "image", "offset": [ -14.625, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/potato_slice" } },
+                  { "cell2": { "type": "image", "offset": [ -6.25, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/oil_bottle" } },
+                  { "result": { "type": "image", "offset": [ 21, -5.25 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/low_fat_potato_slice" } },
+                  { "count": { "type": "label", "text": "2", "font_scale_factor": 0.5, "size": [ 15, 15 ], "offset": [ 31, 2 ] } }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "oil_bottle_recipe@cooking_pot.cooking_pot_recipe": {
+          "texture": "textures/gui/recipe/cooking_recipe",
+          "size": [ 75, 38 ],
+          "offset": [ 37.5, 0 ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  { "cell0": { "type": "image", "offset": [ -23, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/animal_fat" } },
+                  { "cell1": { "type": "image", "offset": [ -14.625, -7 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/animal_fat" } },
+                  { "result": { "type": "image", "offset": [ 21, -5.25 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/syals_delight/oil_bottle" } },
+                  { "container": { "type": "image", "offset": [ 6, 10.875 ], "size": [ 7.5, 7.5 ], "texture": "textures/items/potion_bottle_empty" } }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "recipe_grid_panel": {
+    "modifications": [
+      {
+        "array_name": "controls",
+        "operation": "insert_back",
+        "value": [
+          { "syals_delight_recipe_grid_0@cooking_pot.syals_delight_recipe_part_0": {} },
+          { "syals_delight_recipe_grid_1@cooking_pot.syals_delight_recipe_part_1": {} },
+          { "syals_delight_recipe_grid_2@cooking_pot.syals_delight_recipe_part_2": {} }
+        ]
+      }
+    ]
+  }
+}

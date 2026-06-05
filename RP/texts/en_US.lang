@@ -6,7 +6,7 @@ item.syals_delight:syals_bag=Syal's Chips Bag
 item.syals_delight:bag_o_chips=Bag O' Chips
 item.syals_delight:kettle_chips=Kettle Chips
 item.syals_delight:reduced_fat_chips=Reduced Fat Chips
-item.syals_delight:vinegar_chips=Vinegar Chips
+item.syals_delight:vinegar_chips=Vinegar Chips\n§9From Dumplings Delight
 item.syals_delight:batch_fried_potato_slice=Batch Fried Potato Slice
 item.syals_delight:fried_potato_slice=Fried Potato Slice
 item.syals_delight:greasy_potato_slice=Greasy Potato Slice
@@ -17,4 +17,6 @@ item.syals_delight:peeled_potato=Peeled Potato
 item.syals_delight:peeler=Peeler
 item.syals_delight:animal_fat=Animal Fat
 item.syals_delight:oil_bottle=Oil Bottle
-itemGroup.syals_delight_tab=Syal's Delight
+
+syals_delight:itemGroup.name.potato_chips=Syal's Delight - Potato Chips
+syals_delight:itemGroup.name.miscItem=Syal's Delight - Misc Items

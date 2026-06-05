@@ -12,8 +12,8 @@
         "description": {
             "identifier": "syals_delight:animal_fat",
             "menu_category": {
-                "category": "items",
-                "group": "farmersdelight:itemGroup.name.miscFood"
+                "category": "nature",
+                "group": "farmersdelight:itemGroup.name.rawFood"
             }
         }
     }

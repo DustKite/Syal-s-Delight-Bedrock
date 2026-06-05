@@ -13,7 +13,7 @@
             "identifier": "syals_delight:syals_bag",
             "menu_category": {
                 "category": "items",
-                "group": "farmersdelight:itemGroup.name.miscFood"
+                "group": "syals_delight:itemGroup.name.miscItem"
             }
         }
     }

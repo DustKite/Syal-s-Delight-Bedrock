@@ -9,23 +9,33 @@ const CookingPotRecipes = [
         "experience": 0.0,
         "ingredients": [
             {
-                "item": "syals_delight:potato_slice"
+                "tag": "farmersdelight:potato_slices"
             },
             {
-                "item": "syals_delight:potato_slice"
+                "tag": "farmersdelight:potato_slices"
             },
             {
-                "item": "syals_delight:potato_slice"
+                "tag": "farmersdelight:potato_slices"
             },
             {
-                "item": "syals_delight:potato_slice"
+                "tag": "farmersdelight:potato_slices"
             },
-            {
-                "tag": "syals_delight:food_oil"
-            },
-            {
-                "tag": "syals_delight:food_oil"
-            }
+            [
+                {
+                    "tag": "farmersdelight:food_oil"
+                },
+                {
+                    "item": "sunflowerdelight:sunflower_oil"
+                }
+            ],
+            [
+                {
+                    "tag": "farmersdelight:food_oil"
+                },
+                {
+                    "item": "sunflowerdelight:sunflower_oil"
+                }
+            ]
         ],
         "result": {
             "item": "syals_delight:batch_fried_potato_slice",
@@ -42,17 +52,27 @@ const CookingPotRecipes = [
         "experience": 0.0,
         "ingredients": [
             {
-                "item": "syals_delight:potato_slice"
+                "tag": "farmersdelight:potato_slices"
             },
             {
-                "item": "syals_delight:potato_slice"
+                "tag": "farmersdelight:potato_slices"
             },
-            {
-                "tag": "syals_delight:food_oil"
-            },
-            {
-                "tag": "syals_delight:food_oil"
-            }
+            [
+                {
+                    "tag": "farmersdelight:food_oil"
+                },
+                {
+                    "item": "sunflowerdelight:sunflower_oil"
+                }
+            ],
+            [
+                {
+                    "tag": "farmersdelight:food_oil"
+                },
+                {
+                    "item": "sunflowerdelight:sunflower_oil"
+                }
+            ]
         ],
         "result": {
             "item": "syals_delight:fried_potato_slice",
@@ -69,20 +89,35 @@ const CookingPotRecipes = [
         "experience": 0.0,
         "ingredients": [
             {
-                "item": "syals_delight:potato_slice"
+                "tag": "farmersdelight:potato_slices"
             },
             {
-                "item": "syals_delight:potato_slice"
+                "tag": "farmersdelight:potato_slices"
             },
-            {
-                "tag": "syals_delight:food_oil"
-            },
-            {
-                "tag": "syals_delight:food_oil"
-            },
-            {
-                "tag": "syals_delight:food_oil"
-            }
+            [
+                {
+                    "tag": "farmersdelight:food_oil"
+                },
+                {
+                    "item": "sunflowerdelight:sunflower_oil"
+                }
+            ],
+            [
+                {
+                    "tag": "farmersdelight:food_oil"
+                },
+                {
+                    "item": "sunflowerdelight:sunflower_oil"
+                }
+            ],
+            [
+                {
+                    "tag": "farmersdelight:food_oil"
+                },
+                {
+                    "item": "sunflowerdelight:sunflower_oil"
+                }
+            ]
         ],
         "result": {
             "item": "syals_delight:greasy_potato_slice",
@@ -104,12 +139,22 @@ const CookingPotRecipes = [
             {
                 "item": "syals_delight:fried_potato_slice"
             },
-            {
-                "tag": "syals_delight:food_oil"
-            },
-            {
-                "tag": "syals_delight:food_oil"
-            }
+            [
+                {
+                    "tag": "farmersdelight:food_oil"
+                },
+                {
+                    "item": "sunflowerdelight:sunflower_oil"
+                }
+            ],
+            [
+                {
+                    "tag": "farmersdelight:food_oil"
+                },
+                {
+                    "item": "sunflowerdelight:sunflower_oil"
+                }
+            ]
         ],
         "result": {
             "item": "syals_delight:hot_potato_slice",
@@ -126,14 +171,19 @@ const CookingPotRecipes = [
         "experience": 0.0,
         "ingredients": [
             {
-                "item": "syals_delight:potato_slice"
+                "tag": "farmersdelight:potato_slices"
             },
             {
-                "item": "syals_delight:potato_slice"
+                "tag": "farmersdelight:potato_slices"
             },
-            {
-                "tag": "syals_delight:food_oil"
-            }
+            [
+                {
+                    "tag": "farmersdelight:food_oil"
+                },
+                {
+                    "item": "sunflowerdelight:sunflower_oil"
+                }
+            ]
         ],
         "result": {
             "item": "syals_delight:low_fat_potato_slice",
@@ -145,6 +195,9 @@ const CookingPotRecipes = [
         "tags": [
             "cooking_pot"
         ],
+        "container": {
+            "item": "minecraft:glass_bottle"
+        },
         "priority": 0,
         "time": 200,
         "experience": 0.0,

@@ -51,7 +51,7 @@
         "description": {
             "basic_render_parameters": {
                 "material": "particles_alpha",
-                "texture": "textures/items/peeled_potato"
+                "texture": "textures/items/syals_delight/peeled_potato"
             },
             "identifier": "syals_delight:peeled_potato"
         }

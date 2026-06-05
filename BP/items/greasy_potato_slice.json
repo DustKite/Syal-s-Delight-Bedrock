@@ -17,13 +17,18 @@
                 "textures": {
                     "default": "syals_delight:greasy_potato_slice"
                 }
+            },
+            "minecraft:tags": {
+                "tags": [
+                    "farmersdelight:cooked_potato_slices"
+                ]
             }
         },
         "description": {
             "identifier": "syals_delight:greasy_potato_slice",
             "menu_category": {
-                "category": "items",
-                "group": "farmersdelight:itemGroup.name.miscFood"
+                "category": "equipment",
+                "group": "syals_delight:itemGroup.name.potato_chips"
             }
         }
     }

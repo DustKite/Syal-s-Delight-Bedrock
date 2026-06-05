@@ -1,0 +1,46 @@
+{
+   "format_version": "1.21.100",
+   "minecraft:crafting_items_catalog": {
+      "categories": [
+         {
+            "category_name": "equipment",
+            "groups": [
+               {
+                  "group_identifier": {
+                     "icon": "syals_delight:syals",
+                     "name": "syals_delight:itemGroup.name.potato_chips"
+                  },
+                  "items": [
+                     "syals_delight:syals",
+                     "syals_delight:kettle_chips",
+                     "syals_delight:reduced_fat_chips",
+                     "syals_delight:bag_o_chips",
+                     "syals_delight:vinegar_chips",
+                     "syals_delight:batch_fried_potato_slice",
+                     "syals_delight:fried_potato_slice",
+                     "syals_delight:greasy_potato_slice",
+                     "syals_delight:hot_potato_slice",
+                     "syals_delight:low_fat_potato_slice"
+                  ]
+               }
+            ]
+         },
+         {
+            "category_name": "items",
+            "groups": [
+               {
+                  "group_identifier": {
+                     "icon": "syals_delight:oil_bottle",
+                     "name": "syals_delight:itemGroup.name.miscItem"
+                  },
+                  "items": [
+                     "syals_delight:oil_bottle",
+                     "syals_delight:syals_bag",
+                     "syals_delight:chips_bag"
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+}

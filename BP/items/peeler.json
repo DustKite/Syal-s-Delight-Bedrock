@@ -15,8 +15,7 @@
         "description": {
             "identifier": "syals_delight:peeler",
             "menu_category": {
-                "category": "items",
-                "group": "farmersdelight:itemGroup.name.miscFood"
+                "category": "equipment"
             }
         }
     }
