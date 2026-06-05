@@ -1,5 +1,5 @@
 pack.name=事乐乐事
-pack.description=适配1.26.0+，本模组根据原Java版模组事乐乐事在已获得原作者授权的情况下进行移植.
+pack.description=适配1.21.90+，本模组根据原Java版模组事乐乐事在已获得原作者授权的情况下进行移植.
 item.syals_delight:syals=事乐薯片
 item.syals_delight:chips_bag=薯片包装袋
 item.syals_delight:syals_bag=事乐薯片包装袋
@@ -13,8 +13,6 @@ item.syals_delight:greasy_potato_slice=油腻的薯片
 item.syals_delight:hot_potato_slice=热薯片
 item.syals_delight:low_fat_potato_slice=低脂薯片
 item.syals_delight:potato_slice=土豆片
-item.syals_delight:peeled_potato=去皮马铃薯
-item.syals_delight:peeler=削皮刀
 item.syals_delight:animal_fat=动物脂肪
 item.syals_delight:oil_bottle=油瓶
 

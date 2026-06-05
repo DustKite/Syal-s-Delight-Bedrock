@@ -32,12 +32,6 @@
     "syals_delight:oil_bottle": {
       "textures": "textures/items/syals_delight/oil_bottle"
     },
-    "syals_delight:peeled_potato": {
-      "textures": "textures/items/syals_delight/peeled_potato"
-    },
-    "syals_delight:peeler": {
-      "textures": "textures/items/syals_delight/peeler"
-    },
     "syals_delight:potato_slice": {
       "textures": "textures/items/syals_delight/potato_slice"
     },
