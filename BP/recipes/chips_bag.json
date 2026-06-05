@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "syals_delight:chips_bag"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "syals_delight:chips_bag",
+      "count": 1
+    },
+    "pattern": [
+      "PP",
+      "PP"
+    ],
+    "key": {
+      "P": {
+        "item": "minecraft:paper"
+      }
+    }
+  }
+}

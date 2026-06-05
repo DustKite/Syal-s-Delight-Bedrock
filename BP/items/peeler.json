@@ -1,0 +1,23 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_stack_size": 1,
+            "minecraft:durability": {
+                "max_durability": 131
+            },
+            "minecraft:icon": {
+                "textures": {
+                    "default": "syals_delight:peeler"
+                }
+            }
+        },
+        "description": {
+            "identifier": "syals_delight:peeler",
+            "menu_category": {
+                "category": "items",
+                "group": "farmersdelight:itemGroup.name.miscFood"
+            }
+        }
+    }
+}

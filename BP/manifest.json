@@ -1,0 +1,62 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "f6a4d2c0-6b0c-4f50-9d08-aca9585bbd3e",
+    "version": [
+      5,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "cf10f33c-3455-4854-8d14-b14b442392b1",
+      "version": [
+        5,
+        0,
+        0
+      ]
+    },
+    {
+      "description": "Syal's Delight Scripts",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "2aac0a45-0283-4f47-920e-87129009969e",
+      "version": [
+        5,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Dust_Kite/Elaikes"
+    ],
+    "license": "https://github.com/DustKite/Syal-s-Delight-Bedrock/tree/main?tab=License-1-ov-file",
+    "product_type": "addon"
+  },
+  "dependencies": [
+    {
+      "uuid": "45f2bf22-3db0-4a2c-91ec-a6fad2aa7b1a",
+      "version": [
+        5,
+        0,
+        0
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    }
+  ]
+}

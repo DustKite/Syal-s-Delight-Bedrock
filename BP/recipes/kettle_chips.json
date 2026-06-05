@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "syals_delight:kettle_chips"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "syals_delight:kettle_chips",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "item": "syals_delight:hot_potato_slice"
+      },
+      {
+        "item": "syals_delight:hot_potato_slice"
+      },
+      {
+        "item": "syals_delight:hot_potato_slice"
+      },
+      {
+        "item": "syals_delight:hot_potato_slice"
+      },
+      {
+        "item": "syals_delight:chips_bag"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "syals_delight:vinegar_chips"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "syals_delight:vinegar_chips",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "item": "syals_delight:chips_bag"
+      },
+      {
+        "tag": "farmersdelight:vinegar"
+      },
+      {
+        "item": "syals_delight:fried_potato_slice"
+      },
+      {
+        "item": "syals_delight:fried_potato_slice"
+      },
+      {
+        "item": "syals_delight:fried_potato_slice"
+      },
+      {
+        "item": "syals_delight:fried_potato_slice"
+      }
+    ]
+  }
+}

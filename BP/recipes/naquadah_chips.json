@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "syals_delight:naquadah_chips"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "syals_delight:naquadah_chips",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "item": "syals_delight:chips_bag"
+      },
+      {
+        "item": "syals_delight:fried_naquadah_potato_slice"
+      },
+      {
+        "item": "syals_delight:fried_naquadah_potato_slice"
+      },
+      {
+        "item": "syals_delight:fried_naquadah_potato_slice"
+      },
+      {
+        "item": "syals_delight:fried_naquadah_potato_slice"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "syals_delight:reduced_fat_chips"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "syals_delight:reduced_fat_chips",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "item": "syals_delight:low_fat_potato_slice"
+      },
+      {
+        "item": "syals_delight:low_fat_potato_slice"
+      },
+      {
+        "item": "syals_delight:low_fat_potato_slice"
+      },
+      {
+        "item": "syals_delight:low_fat_potato_slice"
+      },
+      {
+        "item": "minecraft:salmon"
+      },
+      {
+        "item": "syals_delight:chips_bag"
+      }
+    ]
+  }
+}

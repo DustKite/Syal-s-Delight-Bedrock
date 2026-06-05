@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "syals_delight:bag_o_chips"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "result": {
+      "item": "syals_delight:bag_o_chips",
+      "count": 1
+    },
+    "ingredients": [
+      {
+        "item": "syals_delight:greasy_potato_slice"
+      },
+      {
+        "item": "syals_delight:greasy_potato_slice"
+      },
+      {
+        "item": "syals_delight:greasy_potato_slice"
+      },
+      {
+        "item": "syals_delight:greasy_potato_slice"
+      },
+      {
+        "item": "syals_delight:chips_bag"
+      }
+    ]
+  }
+}

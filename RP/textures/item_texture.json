@@ -1,0 +1,57 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "syals_delight:animal_fat": {
+      "textures": "textures/items/syals_delight/animal_fat"
+    },
+    "syals_delight:bag_o_chips": {
+      "textures": "textures/items/syals_delight/bag_o_chips"
+    },
+    "syals_delight:batch_fried_potato_slice": {
+      "textures": "textures/items/syals_delight/batch_fried_potato_slice"
+    },
+    "syals_delight:chips_bag": {
+      "textures": "textures/items/syals_delight/chips_bag"
+    },
+    "syals_delight:fried_potato_slice": {
+      "textures": "textures/items/syals_delight/fried_potato_slice"
+    },
+    "syals_delight:greasy_potato_slice": {
+      "textures": "textures/items/syals_delight/greasy_potato_slice"
+    },
+    "syals_delight:hot_potato_slice": {
+      "textures": "textures/items/syals_delight/hot_potato_slice"
+    },
+    "syals_delight:kettle_chips": {
+      "textures": "textures/items/syals_delight/kettle_chips"
+    },
+    "syals_delight:low_fat_potato_slice": {
+      "textures": "textures/items/syals_delight/low_fat_potato_slice"
+    },
+    "syals_delight:oil_bottle": {
+      "textures": "textures/items/syals_delight/oil_bottle"
+    },
+    "syals_delight:peeled_potato": {
+      "textures": "textures/items/syals_delight/peeled_potato"
+    },
+    "syals_delight:peeler": {
+      "textures": "textures/items/syals_delight/peeler"
+    },
+    "syals_delight:potato_slice": {
+      "textures": "textures/items/syals_delight/potato_slice"
+    },
+    "syals_delight:reduced_fat_chips": {
+      "textures": "textures/items/syals_delight/reduced_fat_chips"
+    },
+    "syals_delight:syals": {
+      "textures": "textures/items/syals_delight/syals"
+    },
+    "syals_delight:syals_bag": {
+      "textures": "textures/items/syals_delight/syals_bag"
+    },
+    "syals_delight:vinegar_chips": {
+      "textures": "textures/items/syals_delight/vinegar_chips"
+    }
+  }
+}
